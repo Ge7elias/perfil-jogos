@@ -1,0 +1,2 @@
+# perfil jogos
+ gerenciar perfil
